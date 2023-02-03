@@ -1,0 +1,7 @@
+NET "A" LOC = "P1";
+NET "B" LOC = "P2";
+NET "C" LOC = "P5";
+NET "D" LOC = "P6";
+NET "X" LOC = "P32";
+NET "Y" LOC = "P33";
+NET "Z" LOC = "P34";

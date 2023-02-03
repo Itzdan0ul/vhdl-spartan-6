@@ -1,0 +1,10 @@
+NET "clock_in" LOC = "P56";
+NET "XY<0>" LOC = "P2";
+NET "XY<1>" LOC = "P5";
+NET "Display<0>" LOC = "P32";
+NET "Display<1>" LOC = "P33";
+NET "Display<2>" LOC = "P34";
+NET "Display<3>" LOC = "P35";
+NET "Display<4>" LOC = "P40";
+NET "Display<5>" LOC = "P41";
+NET "Display<6>" LOC = "P50";

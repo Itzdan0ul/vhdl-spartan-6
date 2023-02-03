@@ -1,0 +1,2 @@
+NET "clock_in" LOC = "P56";
+NET "clock_out" LOC = "P24";

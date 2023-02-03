@@ -1,0 +1,10 @@
+NET "COMPARA" LOC = "P17";
+NET "S0" LOC = "P1";
+NET "S1" LOC = "P2";
+NET "S2" LOC = "P5";
+NET "N0" LOC = "P6";
+NET "N1" LOC = "P7";
+NET "N2" LOC = "P8";
+NET "MY" LOC = "P32";
+NET "ME" LOC = "P33";
+NET "EQ" LOC = "P34";
